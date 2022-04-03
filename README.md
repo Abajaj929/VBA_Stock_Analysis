@@ -8,7 +8,7 @@ DQ had the biggest decline of the 12 stocks in this dataset, a -62.6% return. Th
 
 ![VBA Code](https://user-images.githubusercontent.com/101424665/161453981-ec0a474c-7c4d-4850-b41f-657b0375c7ed.png)
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/101424665/161454100-67e9f80e-af80-4961-90e3-4ad71585912d.png)
-
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/101424665/161454134-04251652-e219-41a6-a2d3-53953faf190e.png)
 
 ## Summary
 ### Advantages and Disadvantages of Refactoring Code
