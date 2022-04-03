@@ -7,7 +7,7 @@ I’ve refactored the VBA code to help illuminate this comparison.
 DQ had the biggest decline of the 12 stocks in this dataset, a -62.6% return. The two stocks that had a positive return were ENPH and RUN, both over 81% return. Based on this information, Steve’s parents should re-allocate their investments into the more long-term promising stocks of ENPH and RUN.
 
 ![VBA Code](https://user-images.githubusercontent.com/101424665/161453981-ec0a474c-7c4d-4850-b41f-657b0375c7ed.png)
-
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/101424665/161454100-67e9f80e-af80-4961-90e3-4ad71585912d.png)
 
 
 ## Summary
